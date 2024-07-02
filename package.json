@@ -1,0 +1,46 @@
+{
+  "name": "mini-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.4",
+    "emoji-picker-react": "^4.3.0",
+    "firebase": "^9.11.0",
+    "framer-motion": "^7.6.6",
+    "lodash.debounce": "^4.0.8",
+    "markdown-it": "^13.0.1",
+    "markdown-it-ins": "^3.0.1",
+    "next": "12.3.1",
+    "nextjs-progressbar": "^0.0.16",
+    "openai": "^3.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-flip-toolkit": "^7.0.17",
+    "react-hot-toast": "^2.4.0",
+    "react-icons": "^4.4.0",
+    "react-lottie": "^1.2.3",
+    "react-markdown-editor-lite": "^1.3.3",
+    "react-scrollable-feed": "^1.3.1",
+    "react-tooltip": "^4.4.0",
+    "tailwind-scrollbar-hide": "^1.1.7",
+    "timeago-react": "^3.0.5",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "eslint": "8.25.0",
+    "eslint-config-next": "12.3.1",
+    "postcss": "^8.4.17",
+    "prettier": "^2.7.1",
+    "prettier-plugin-tailwindcss": "^0.1.13",
+    "tailwind-scrollbar": "^2.0.1",
+    "tailwindcss": "^3.1.8",
+    "tailwindcss-tooltip-arrow-after": "^1.0.0"
+  }
+}
